@@ -21,4 +21,3 @@ npm install uniqueway_module_cli --save-dev
 ```
 npm run generator user
 ```
-

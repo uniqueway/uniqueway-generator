@@ -1,0 +1,20 @@
+{
+  "name": "uniqueway-generator",
+  "version": "1.0.0",
+  "description": "文件生成工具",
+  "keywords": [
+    "generator",
+    "dir"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uniqueway/uniqueway-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uniqueway/uniqueway-generator/issues"
+  },
+  "homepage": "https://github.com/uniqueway/uniqueway-generator#readme"
+}
