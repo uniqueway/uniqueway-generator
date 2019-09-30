@@ -5,7 +5,7 @@
 ### 安装
 
 ```
-npm install uniqueway_module_cli --save-dev
+npm install uniqueway-generator --save-dev
 ```
 
 ### 配置
