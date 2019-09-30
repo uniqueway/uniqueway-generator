@@ -13,7 +13,7 @@ npm install uniqueway_module_cli --save-dev
 项目目录 package.json `scripts` 中配置
 
 ```
- "generator": "node ./node_modules/uniqueway_module_cli/index.js"
+ "generator": "node ./node_modules/uniqueway-generator/index.js"
 ```
 
 ### 示例

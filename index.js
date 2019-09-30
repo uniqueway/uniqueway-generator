@@ -42,7 +42,7 @@ function copy(src, dst) {
 }
 
 const PATH = path.resolve('./')
-const templatePath = path.resolve('./node_modules/uniqueway_module_cli/template')
+const templatePath = path.resolve('./node_modules/uniqueway-generator/template')
 mkdir(PATH + '/modules', function() {
   mkdir(PATH + `/modules/${moduleName}`, function() {
     checkDirectory(templatePath, PATH + `/modules/${moduleName}`, copy)
