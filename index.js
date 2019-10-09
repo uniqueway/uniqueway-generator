@@ -41,7 +41,7 @@ function copy(src, dst) {
   })
 }
 
-const PATH = path.resolve('./')
+const PATH = path.resolve('./src')
 const templatePath = path.resolve('./node_modules/uniqueway-generator/template')
 mkdir(PATH + '/modules', function() {
   mkdir(PATH + `/modules/${moduleName}`, function() {
